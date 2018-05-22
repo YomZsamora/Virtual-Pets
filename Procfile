@@ -1,1 +1,0 @@
-web: ./build/install/virtual-pets/bin/virtual-pets
